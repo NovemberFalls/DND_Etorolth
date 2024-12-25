@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01. Etorolth/Undergrowth/The Songbirds Flame Tavern.md",
+                "file": "01. Etorolth/03. The Spine/01. The Spine Lore.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Songbirds Flame Tavern"
+              "title": "01. The Spine Lore"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01. Etorolth/Undergrowth/The Songbirds Flame Tavern.md",
+                "file": "01. Etorolth/03. The Spine/01. The Spine Lore.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for The Songbirds Flame Tavern"
+              "title": "Backlinks for 01. The Spine Lore"
             }
           },
           {
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01. Etorolth/Undergrowth/The Songbirds Flame Tavern.md",
+                "file": "01. Etorolth/03. The Spine/01. The Spine Lore.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from The Songbirds Flame Tavern"
+              "title": "Outgoing links from 01. The Spine Lore"
             }
           },
           {
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01. Etorolth/Undergrowth/The Songbirds Flame Tavern.md"
+                "file": "01. Etorolth/03. The Spine/01. The Spine Lore.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of The Songbirds Flame Tavern"
+              "title": "Outline of 01. The Spine Lore"
             }
           }
         ]
@@ -164,17 +164,33 @@
   },
   "active": "a4b68c8eb4eddb8d",
   "lastOpenFiles": [
+    "01. Etorolth/02. Undergrowth/Tavern - The Songbirds Flame Tavern.md",
+    "01. Etorolth/02. Undergrowth/Shop - Bitter Cure.md",
+    "01. Etorolth/02. Undergrowth/01. Undergrowth Lore.md",
+    "01. Etorolth/01. World Lore.md",
+    "01. Etorolth/06. The Canopy/Laws.md",
+    "01. Etorolth/02. Laws.md",
+    "01. Etorolth/06. The Canopy/World Lore.md",
+    "01. Etorolth/06. The Canopy/01. The Canopy Lore.md",
+    "01. Etorolth/05. The Clouds/01. The Clouds Lore.md",
+    "01. Etorolth/05. The Clouds/Dispel And That Spell.md",
+    "01. Etorolth/05. The Clouds/Clouds Info.md",
+    "01. Etorolth/04. The Weeping Branches/01. The Weeping Branches Lore.md",
+    "01. Etorolth/03. The Spine/01. The Spine Lore.md",
+    "01. Etorolth/06. The Canopy",
+    "01. Etorolth/04. The Weeping Branches",
+    "01. Etorolth/03. The Spine",
+    "01. Etorolth/01. The Forest",
+    "01. Etorolth/01. The Forest.md",
+    "image_dump/Warden.jpg",
+    "02. People/Warden.md",
+    "01. Etorolth/05. The Clouds",
     "New Text Document.txt",
     "README.md",
     "DND_Etorolth/README.md",
     "DND_Etorolth",
-    "01. Etorolth/World Lore.md",
-    "01. Etorolth/Undergrowth/The Songbirds Flame Tavern.md",
-    "01. Etorolth/Undergrowth",
-    "02. People/Warden.md",
-    "image_dump/Warden.jpg",
+    "01. Etorolth/02. Undergrowth",
     "image_dump",
-    "02. People",
-    "01. Etorolth"
+    "02. People"
   ]
 }
